@@ -1,6 +1,5 @@
 /* tslint:disable: object-literal-sort-keys */
 const premiums: any = {
-    //Only Part D updated
       generatedOn: '03/21/2022',
       ak: {
         zip: '99502',
